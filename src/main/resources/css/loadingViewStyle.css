@@ -1,0 +1,9 @@
+#bgPane {
+    -fx-alignment: center;
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+#logoImage {
+	-fx-effect: dropshadow(three-pass-box, rgb(88, 97, 108), 10, 0, 0, 0);
+    -fx-image: url("../images/logo.png");
+}
